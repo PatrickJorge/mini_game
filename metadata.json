@@ -1,0 +1,5 @@
+{
+  "name": "Super Mario Mini",
+  "description": "A side-scrolling platformer game inspired by Super Mario, built with React and Canvas.",
+  "requestFramePermissions": []
+}
