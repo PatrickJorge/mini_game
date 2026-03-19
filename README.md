@@ -1,4 +1,4 @@
-# 🎮 Super Mario Mini
+# 🎮 Mini Game
 
 Uma aventura clássica de plataforma 2D construída com **React**, **TypeScript** e **Canvas API**. Inspirado no estilo icônico de Super Mario, este projeto demonstra uma arquitetura de jogo modular e performática em um ambiente web moderno.
 
